@@ -13,10 +13,13 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
-.praia{
+.praia1{
     width: 30%;
 }
-.link-conig a{
+.praia1 img{
+    width: 100%;
+}
+.link-cofig a{
     font-weight: bold;
     background-color: chartreuse;
     color: white;
@@ -24,3 +27,17 @@
     border-radius: 3px;
 
 }
+.link-cofig a:hover{
+    color:red;
+    background-color: lime;
+
+}
+.esp-bottom{
+    margin-bottom: 20px;
+
+@media screen and (min-width; 480px) {
+    body{
+        background-color: lightgreen;
+    }
+    
+}}
